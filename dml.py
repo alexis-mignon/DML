@@ -1,13 +1,12 @@
 # -*- coding: utf-8 -*-
+# Author: Alexis Mignon <alexis.mignon@gmail.com>
+# Date: 19/03/2015
 # pylint: disable=C0103
 """
 ========================
 Distance Metric Learning
 ========================
 
-Created on Fri Feb 13 18:08:21 2015
-
-@author: alexis
 """
 import numpy as np
 # pylint: disable=E0611
