@@ -15,6 +15,10 @@ This code has been re-written from scratch and is mainly untested. Results obtai
 
 Any publication made using this code or a modification, adaptation or traduction of this code should mention the publications [[1]] and [[2]]
 
+## Requirements
+
+This module depends on the lgbopt module available here: https://github.com/alexis-mignon/python-lgbopt
+
 ## References
 
 [[1]] *PCCA: A new approach for distance learning from sparse pairwise constraints*. Alexis Mignon, Frédéric Jurie. Computer Vision and Pattern Recognition (CVPR) 2012.
