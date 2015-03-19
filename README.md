@@ -9,7 +9,7 @@ This python module implements two distance metric learning algorithms for learni
 
 ## Disclaimer
 
-This code has been re-written from scratch and is mainly untested. 
+This code has been re-written from scratch and is mainly untested. Results obtained using this code are not guaranteed to match those published in [[1]] and [[2]]. Some preliminary tests seem to show results similar to those obtained in [[1]] on LFW.
 
 ## Usage condition
 
