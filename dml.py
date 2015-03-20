@@ -448,6 +448,8 @@ y: 2d array, shape (n_pairs, 3)
         return compute_score(X, pairs, labels, self.coefs_.T,
                              self.threshold_)
 
+    def transform(self, X):
+        return np.dot(X, self.coefs_)
 
 # pylint: disable=R0903
 class PCCALoss(object):
