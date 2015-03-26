@@ -5,7 +5,7 @@
 This python module implements two distance metric learning algorithms for learning metrics from pairwise similarity constraints:
 
 - Pairwise constrained component analysis (PCCA) [[1]]
-- Cross model metric learning (CMML) [[2]]
+- Cross modal metric learning (CMML) [[2]]
 
 ## Disclaimer
 
